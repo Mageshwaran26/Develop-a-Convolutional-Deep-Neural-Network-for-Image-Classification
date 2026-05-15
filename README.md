@@ -96,7 +96,7 @@ for epoch in range(num_epochs):
 ## Confusion Matrix
 
 
-<img width="979" height="779" alt="image" src="https://github.com/user-attachments/assets/de02f931-01df-4fd2-bc57-b8a314940687" />
+<img width="982" height="831" alt="image" src="https://github.com/user-attachments/assets/01659b63-943a-4fd9-85f3-48918d0c3a6e" />
 
 
 
