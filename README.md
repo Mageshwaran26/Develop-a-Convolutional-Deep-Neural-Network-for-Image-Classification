@@ -90,7 +90,7 @@ for epoch in range(num_epochs):
 
 ## Training Loss per Epoch
 
-<img width="387" height="206" alt="image" src="https://github.com/user-attachments/assets/cc7b3bf3-25b4-4c0b-8fd7-16fa3cca1889" />
+<img width="308" height="228" alt="image" src="https://github.com/user-attachments/assets/50fe5b6a-aa19-499f-ae23-fedc47be2c41" />
 
 
 ## Confusion Matrix
